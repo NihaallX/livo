@@ -2,6 +2,30 @@
 
 export const REFERENCE_SENTENCES = [
   {
+    id: "weather-plans",
+    text: "The weather is supposed to be really nice this weekend, so I think we will go for a walk in the park",
+    category: "Conversational",
+    difficulty: "Easy",
+  },
+  {
+    id: "morning-routine",
+    text: "I usually start my morning with a warm cup of coffee while I catch up on the daily news",
+    category: "Conversational",
+    difficulty: "Easy",
+  },
+  {
+    id: "catching-up",
+    text: "It was great catching up with you yesterday, let me know when you are free to do it again",
+    category: "Conversational",
+    difficulty: "Easy",
+  },
+  {
+    id: "project-relax",
+    text: "I am looking forward to finishing this project and finally taking some time off to relax",
+    category: "Conversational",
+    difficulty: "Easy",
+  },
+  {
     id: "pangram",
     text: "The quick brown fox jumps over the lazy dog",
     category: "Pangram",

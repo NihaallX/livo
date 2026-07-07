@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/analyze.py": {
+      "runtime": "@vercel/python",
+      "maxDuration": 60,
+      "memory": 1024
+    },
+    "api/health.py": {
+      "runtime": "@vercel/python",
+      "maxDuration": 10
+    }
+  }
+}
